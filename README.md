@@ -1,1 +1,1 @@
-# Hack-AI-Thon
+# AI-Thon-or-whatever
